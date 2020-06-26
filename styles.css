@@ -1,0 +1,41 @@
+body {
+    background-color: wheat;
+    font-family: Helvetica, Arial, sans-serif;
+}
+h1 {
+    color: red;
+    text-align: center;
+}
+
+.code {
+    font-family: monospace;
+    color: whitesmoke;
+    background-color: navy;
+}
+
+table {
+    width: 80%;
+}
+
+table,
+td { 
+    margin-right: auto;
+    margin-left: auto;
+    border: solid;
+    border-collapse: collapse;
+    border-width: 1px;
+    border-color: black;
+}
+
+thead {
+    border-bottom: solid;
+    border-bottom-width: 2px;
+    border-color: black;
+    font-weight: bold;
+    color: white;
+    background-color: darkolivegreen;
+}
+
+.center {
+    text-align: center
+}
